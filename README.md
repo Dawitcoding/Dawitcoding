@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Dawitcoding
+- 👋 Hi, my name is Dawit Gebretsadik
 - 👀 I’m interested in developing full stack website and android applications.
 - 🌱 I’m currently working on adulis cloud data storage company.
 - 💞️ I’m ready to collaborate on any project.
-- 📫 How to reach me dawitgebre195@gmail.com
+- 📫 you can contact me using the gmail dawitgebre195@gmail.com
 
 <!---
 Dawitcoding/Dawitcoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
